@@ -10,7 +10,7 @@
 
   
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vivek-reddy-ragireddy-421b06248/)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]([_/](https://www.instagram.com/_vivekreddy._/?next=%2F)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_vivekreddy._/?next=%2F)
 
 
 
