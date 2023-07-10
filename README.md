@@ -2,7 +2,7 @@
 
 ## 🌱 I'm a junior undergrad in the Computerscience and Mathematics at Indian Institute of Technology,Guwahati
 
-- 👀 I do the hacker stuff (yeah to normal people coding = hacking).
+- 👀 I started to do webdev for my personal project
 - 😀 I'd love to collaborate in projects that suit my interests.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watching anime and listening to music.
