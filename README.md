@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vivek Reddy4
+# Hi there 👋, I'm Vivek Reddy
 
 ## 🌱 I'm a junior undergrad in the Computerscience and Mathematics at Indian Institute of Technology,Guwahati
 
