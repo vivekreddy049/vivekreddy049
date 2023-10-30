@@ -2,6 +2,7 @@
 
 <h3 align="center">🌱 I'm a junior undergrad in the Computerscience and Mathematics at Indian Institute of Technology,Guwahati</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/05/66/81/30/360_F_566813009_s79aILgAeOcKPMsAucxoAcfYD218jzeG.jpg">
+<h4 align="left"> Currently working as flutter app developer @SWCIITG</h4>
 
 
 - 🔭 I’m currently working on **swc-irbs-portal**
