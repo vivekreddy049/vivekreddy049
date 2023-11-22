@@ -1,7 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)<h1 align="center">Hi 👋, I'm Vivek Reddy</h1>
+<h1 align="center">Hi 👋, I'm Vivek Reddy</h1>
 
 <h3 align="center">🌱 I'm a junior undergrad in the Computerscience and Mathematics at Indian Institute of Technology,Guwahati</h3>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/05/66/81/30/360_F_566813009_s79aILgAeOcKPMsAucxoAcfYD218jzeG.jpg">
 <h4 align="left"> Currently working as flutter app developer @SWCIITG</h4>
 
 
